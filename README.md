@@ -67,6 +67,7 @@ Implementar exportación del modelo entrenado (.h5)
 
 Evaluar con otros datasets (Fashion-MNIST)
 
-Autor
-Santiago Barrera – LinkedIn
+## Autor
+
+**Santiago Barrera** – [LinkedIn](https://www.linkedin.com/in/santiagobc53)  
 Transición profesional hacia el desarrollo en IA, Python y Cloud.
