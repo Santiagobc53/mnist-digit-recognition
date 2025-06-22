@@ -1,0 +1,25 @@
+# Entorno virtual
+tf-env/
+venv/
+.env/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos Python compilados
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Archivos de Jupyter (si usas)
+.ipynb_checkpoints/
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Archivos de VS Code
+.vscode/
